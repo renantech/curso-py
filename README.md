@@ -16,3 +16,5 @@
 - Aula 14: Formatação de strings usando o método format()
 - Aula 15: Função input() para coletar dados
 - Aula 16: Condicionais | Parte 1
+- Aula 17: Condicionais | Parte 2
+- Aula 18: Debugguer
