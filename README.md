@@ -9,3 +9,16 @@
 - Aula 7: Variáveis
 - Aula 8: Exercícios
 - Aula 9: Operadores aritméticos
+- Aula !!: Debbuger do VSCode e o a leitura do intepredador do python
+- Aula 19: Operadores relacionais
+- Aula 20: Exercícios
+- Aula 21: Operadores lógicos (and)
+- Aula 22: Operador lógico (or)
+- Aula 23: Operador lógico (not)
+- Aula 24: Operador lógico (in/not in)
+- Aula 25: Interpolação de string com % em Python
+- Aula 26: Formatação de strings com f-strings
+- Aula 27: Divisão de strings e a função len()
+- Aula 28: Exercícios
+- Aula 29: Try e Except
+- Aula 30: Constantes
